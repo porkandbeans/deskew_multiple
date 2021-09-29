@@ -8,3 +8,12 @@ https://github.com/sbrunner/deskew
 ```
 pip install -r requirements.txt
 ```
+
+## how to use
+Put all the files that you want de-skewed in the `skewds` folder.
+
+run the main.py script with
+```
+python main.py
+```
+and then look in deskewds for the results.
