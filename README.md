@@ -6,7 +6,7 @@ https://github.com/sbrunner/deskew
 
 ## dependencies
 ```
-pip install -r requirements.txt
+pip install -r dependencies.txt
 ```
 
 ## how to use
